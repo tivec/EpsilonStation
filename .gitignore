@@ -1,0 +1,8 @@
+*.dll
+*.a
+.codelite/
+*.workspace
+EpsilonStation.txt
+EpsilonStation.project
+EpsilonStation.mk
+Debug/
